@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development.**
 
-- 🌱 I’m currently learning **web development and practicing data structures side by side.**
-
-- 👯 I’m looking to collaborate on: **Web development.**
-
-- 🤝 I’m looking for help with **Data structures and Algorithms.**
+- 🌱 I’m currently learning **web development.**
 
 - 📫 How to reach me: **akankshamitsg@gmail.com**
 
