@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Sen</h1>
 <h3 align="center">A coding enthusiast and an aspiring software developer.</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Development.**
-
-- 🌱 I’m currently learning **web development.**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 📫 How to reach me: **akankshamitsg@gmail.com**
 
